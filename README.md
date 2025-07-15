@@ -5,10 +5,10 @@ this repo is like a store which include different repos organized for easy acces
 
 ##Odin Projects
 
--[odin-recipes](https://github.com/KenawMarie/odin-recipes)
+1-[odin-recipes](https://github.com/KenawMarie/odin-recipes)
 
 ##Free Code Camp Projects
 
-
+2-[to-do-list](https://github.com/KenawMarie/to-do-list)
 
 ##Others
